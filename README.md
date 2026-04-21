@@ -31,5 +31,7 @@ Metodología:
 Objetivo del proyecto: Construir un modelo de clasificación supervisada para predecir el abandono de servicios en clientes.
 
 Autor: Sandy Dahiana Ruiz Higuita
+
 Curso: Modelos y Simulación de Sistemas II
+
 Universidad de Antioquia
