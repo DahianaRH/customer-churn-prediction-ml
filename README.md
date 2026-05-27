@@ -53,7 +53,7 @@ El desarrollo del proyecto fue realizado utilizando Google Colab con el fin de g
 
 El notebook principal puede ejecutarse directamente desde el siguiente enlace:
 
-https://colab.research.google.com/github/DahianaRH/customer-churn-prediction-ml/blob/main/churn_problem_description.ipynb
+(https://github.com/DahianaRH/customer-churn-prediction-ml/blob/main/notebooks/churn_problem_description_parte_2%20.ipynb)
 
 Se recomienda ejecutar las celdas de manera secuencial para asegurar la correcta reproducción de:
 
