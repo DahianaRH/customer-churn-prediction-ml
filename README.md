@@ -139,14 +139,16 @@ Con el objetivo de disminuir la complejidad computacional del problema y evaluar
 
 ## Resultados generales
 
-Los resultados obtenidos evidenciaron que los modelos Logistic Regression y SVM presentaron el desempeño más equilibrado considerando métricas como Recall, F1-score y ROC-AUC.
+Los resultados obtenidos evidenciaron que los modelos Logistic Regression y SVM presentaron el desempeño más equilibrado considerando métricas como Recall, F1-score y ROC-AUC. 
 
 Además, las técnicas de reducción dimensional permitieron disminuir considerablemente la complejidad del problema manteniendo resultados competitivos de clasificación.
+
 ---
 
 ## Objetivo del proyecto
 
 Construir y evaluar modelos de clasificación supervisada capaces de predecir el abandono de clientes en empresas de telecomunicaciones, comparando diferentes enfoques de Machine Learning y técnicas de reducción dimensional.
+
 ---
 
 ## Autor
